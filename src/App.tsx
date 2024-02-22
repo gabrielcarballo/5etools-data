@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <p>5etools Data</p>
+      <p className="bg-slate-600">5etools Data</p>
     </>
   )
 }
